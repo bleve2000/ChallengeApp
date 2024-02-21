@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeApp-1", "ChallengeApp-1.csproj", "{BAB2950A-A2C6-4901-A565-ADC671BE2AFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_domowe_d4", "zadanie_domowe_d4\zadanie_domowe_d4.csproj", "{3D6C05E6-BF71-4D5A-8936-A070ACB8CCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_domowe_d4", "..\wyzwanie21mac\zadanie_domowe_d4\zadanie_domowe_d4.csproj", "{16C405E3-F06B-45F6-9ED3-6675FF4D01F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BAB2950A-A2C6-4901-A565-ADC671BE2AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAB2950A-A2C6-4901-A565-ADC671BE2AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAB2950A-A2C6-4901-A565-ADC671BE2AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6C05E6-BF71-4D5A-8936-A070ACB8CCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6C05E6-BF71-4D5A-8936-A070ACB8CCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6C05E6-BF71-4D5A-8936-A070ACB8CCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6C05E6-BF71-4D5A-8936-A070ACB8CCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C405E3-F06B-45F6-9ED3-6675FF4D01F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C405E3-F06B-45F6-9ED3-6675FF4D01F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C405E3-F06B-45F6-9ED3-6675FF4D01F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C405E3-F06B-45F6-9ED3-6675FF4D01F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
